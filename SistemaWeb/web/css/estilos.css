@@ -1,0 +1,132 @@
+/*
+Estilo é cores das imagens do sistema css na web.
+*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#todosite {
+    background-color: khaki;
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+    border: solid blue 3px;
+   
+}
+#conteudo {
+      background-color: khaki;
+       text-align: center;
+       
+}
+#cabecalho{
+      height: 100px;
+       text-align: center;
+         background-color: khaki;
+       
+}
+#cabecalho header h2{
+    text-align: center;
+      background-color: khaki;
+    
+}
+
+
+#conteudo {
+    height: 450px;
+      background-color: khaki;
+}
+#menus {
+    width: 150px;
+    float: left;
+    height: 100%;
+     background-color:khaki;
+
+}
+
+
+
+#menus nav ol a {
+ text-decoration: none;
+ color: blue;
+}
+
+#central {
+    width: 150px;
+    float: right;
+    width: 1050px;
+    height: 100%;
+    height: 100%;
+
+
+    
+}
+
+#rodape {
+    height: 50px;
+     border-top: burlywood 2px;
+}
+
+#login {
+    width: 250px;
+    background-color: bisque;
+    margin: auto;
+    margin-top: 150px;
+ 
+ 
+}
+table {
+      background-color: bisque;
+      margin: auto;
+      margin-top: 150px;
+
+
+}
+
+.linhaespecialTable {
+    background-color: burlywood;
+     
+     
+    
+    }
+
+form {
+    background-color:menu;
+    margin: auto;
+    margin-top: 50px; 
+  
+}
+#formAlteraUsuario {
+    width: 400px;
+    padding: 20px;
+    border: 2px darkgreen;
+    border-radius: 20px; 
+  
+}
+#formNovoUsuario {
+    width: 400px;
+    padding: 20px;
+   
+    border-radius: 20px; 
+}
+
+
+#formUsuario {
+    width: 400px;
+    padding: 20px;
+    border: 2px  snow;
+    border-radius: 20px; 
+}
+
+label {
+    font-family: Arial;
+    font-size: 16px;
+    text-shadow:  snow;
+    font-weight: bold;
+    
+}
+input {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bolder;
+    
+}

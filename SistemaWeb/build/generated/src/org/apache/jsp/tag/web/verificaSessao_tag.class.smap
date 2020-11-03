@@ -1,0 +1,11 @@
+SMAP
+verificaSessao_tag.java
+JSP
+*S JSP
+*F
++ 0 verificaSessao.tag
+WEB-INF/tags/verificaSessao.tag
+*L
+1:46,2
+5,9:48
+*E

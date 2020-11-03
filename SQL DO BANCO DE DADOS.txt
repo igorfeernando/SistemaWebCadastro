@@ -1,0 +1,20 @@
+ -- Criação do Banco de Dados no PostgreSQL.
+
+
+
+create database sistemaweb;
+
+
+
+
+
+
+create table usuarios (
+
+  usuario character varying(10) NOT NULL,
+  senha character varying(10) NOT NULL,
+  nivel integer NOT  NULL,
+  nomecompleto character varying(30) NOT NULL,
+  CONSTRAINT usuario_pk PRIMARY KEY (usuario)
+
+ );
